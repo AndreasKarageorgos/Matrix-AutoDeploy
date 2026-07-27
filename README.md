@@ -142,6 +142,7 @@ After the installation completes, you must:
 - Docker Compose
 - Git
 - OpenSSL (pre-installed on most Debian/Ubuntu systems)
+- Python3 (pre-installed on most Linux systems)
 - Root or sudo privileges
 
 ---
