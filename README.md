@@ -98,7 +98,7 @@ cd Matrix-AutoDeploy
 Run the installer:
 
 ```bash
-sudo ./install.sh
+sudo ./setup.sh
 ```
 
 ---
